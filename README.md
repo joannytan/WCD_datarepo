@@ -15,3 +15,4 @@ As participants were leaving the trial, they were asked if they would consider g
 Both of these datasets are completely synthetic and not intended to replicate any real world data scenario in particular. They are used as a teaching tool and **are not intended in any way for analysis**
 
 The simulation script is also included for posterity, but students do not need to use this. 
+(The original data was created by Dr. Lauren, Monash University)
