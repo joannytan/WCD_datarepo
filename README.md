@@ -1,7 +1,7 @@
 # WCD_datarepo
 Data for the week 09 tute for wild caught data.
 
-This repo contains two **simulated** datasets for the use of students in Wild Caught Data, 2022. 
+This repo contains two **simulated** datasets for the use of students in Wild Caught Data, 2023. 
 
 Descriptions of the data below:
 
